@@ -1,5 +1,4 @@
-ENG
-Task Tracker CLI
+ENG - Task Tracker CLI
 
 Task Tracker CLI is a simple task management application developed in Python. The goal of this project is to allow users to manage their tasks 
 directly from the terminal, making it possible to add, update, delete, list, and change the status of tasks.
@@ -20,8 +19,7 @@ by entering the corresponding number, making the application easier to use for b
 This project was created with a focus on learning and practicing basic Python concepts such as file handling, data structures, input validation, and 
 command-line application development, making it suitable for beginner, junior, or internship-level developers.
 
-PT-BR
-Task Tracker CLI
+PT-BR - Task Tracker CLI
 
 O Task Tracker CLI é uma aplicação simples de gerenciamento de tarefas desenvolvida em Python. O objetivo do projeto é permitir que o usuário 
 gerencie suas tarefas diretamente pelo terminal, podendo adicionar, atualizar, excluir, listar e alterar o status das tarefas.
